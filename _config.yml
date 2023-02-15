@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # false to light theme, auto to switch with system.
 dark-theme: auto
 
-url: https://carlos-navarro.github.io/me
+url: https://carlos-navarro.github.io
 
 permalink: /:title/
 
