@@ -1,0 +1,129 @@
+# main text of home
+title: Carlos Navarro
+bio: Architect who code / Forever novice software craftsman / Lifelong learner / Slash man
+
+# twitter summary info
+description: Me
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
+
+# your site color theme, true for dark theme, 
+# false to light theme, auto to switch with system.
+dark-theme: auto
+
+url: https://carlos-navarro.github.io/me
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: # github # enter this from your disqus account
+  categories: # [blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+# http://www.facebook.com/kahlitoh
+facebook: kahlitoh 
+# http://www.twitter.com/kahlitoh
+twitter: kahlitoh 
+# https://www.instagram.com/kahlitoh
+instagram: kahlitoh 
+# https://www.linkedin.com/in/carlos-t-navarro
+linkedin: carlos-t-navarro
+# https://github.com/carlos-navarro
+github: carlos-navarro
+email: carlos.navarro@axa.com
+# https://teams.microsoft.com/l/chat/0/0?users=carlos.navarro@axa.com
+teams: carlos.navarro@axa.com
+
+authors:
+  carlos-navarro:
+    name: Carlos Navarro
+    bio: Architect who code / Forever novice software craftsman / Lifelong learner / Slash man
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: kahlitoh
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you do/don't need pagination, toggle 'enabled' between true/false below
+pagination:
+  enabled: false
+  sort_reverse: true # display recent posts first
+  title: ":title" # Changing this will mess up the header display logic
+  per_page: 5
+  permalink: "/:num/" # pagination link that will be appended
+
+# if you don't need a section, comment the section configs below
+about: true
+blog: false
+projects: false
+badges: true
+books: true
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: false
+resume-external: false
+resume-url: resume
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: false
+
+# do you want some animations?
+animation: true
+
+# add default values to specific pages or layouts
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      layout: "post"
+    values:
+      # setting all post to not hidden by default,
+      # can be overridden in the front matter for a specific post
+      hidden: false
+
+destination: docs/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-paginate-v2
+  - jekyll-admin
+
+compress_html:
+  ignore:
+    envs:
+      - development
+      - stage
+
+exclude:
+  [
+    "README.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "FAQ.md",
+    "vendor",
+  ]
