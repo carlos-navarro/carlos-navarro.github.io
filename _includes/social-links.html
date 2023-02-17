@@ -13,6 +13,12 @@
         </a>
     {% endif %}
 
+    {% if site.mstdn %}
+    <a class="link" data-title="{{ site.mstdn }}" href="{{ site.mstdn }}" target="_blank" rel="noopener">
+        <i class="fa-brands fa-mastodon"></i>
+    </a>
+    {% endif %}
+
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener">
             <i class="fa-brands fa-instagram"></i>
@@ -39,7 +45,7 @@
 
     {% if site.teams %}
     <a class="link" data-title="{{ site.teams }}" href="https://teams.microsoft.com/l/chat/0/0?users={{ site.teams }}"  rel="noopener">
-        <i class="fa-solid fa-users-line"></i>
+        <i class="fa-brands fa-microsoft"></i>
     </a>
     {% endif %}
 </div>
