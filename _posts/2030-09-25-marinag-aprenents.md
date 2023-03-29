@@ -1,7 +1,7 @@
 ---
 title: "🏴󠁥󠁳󠁣󠁴󠁿 Escola d'aprenents (Marina Garcés)"
 layout: post
-date: 2023-09-25 21:22
+date: 2030-09-25 21:22
 tag:
 - Marina Garcés
 - Philosophy

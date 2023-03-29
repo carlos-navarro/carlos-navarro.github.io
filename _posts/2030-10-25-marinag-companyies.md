@@ -1,7 +1,7 @@
 ---
 title: "🏴󠁥󠁳󠁣󠁴󠁿 Males companyies (Marina Garcés)"
 layout: post
-date: 2023-10-25 21:22
+date: 2030-10-25 21:22
 tag:
 - Marina Garcés
 - Philosophy

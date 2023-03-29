@@ -1,7 +1,7 @@
 ---
 title: "🏴󠁥󠁳󠁣󠁴󠁿 Ciutat princesa (Marina Garcés)"
 layout: post
-date: 2023-07-25 21:22
+date: 2030-07-25 21:22
 tag:
 - Marina Garcés
 - Philosophy

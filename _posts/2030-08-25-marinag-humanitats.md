@@ -1,7 +1,7 @@
 ---
 title: "🏴󠁥󠁳󠁣󠁴󠁿 Humanitats en acció (Marina Garcés et al.)"
 layout: post
-date: 2023-08-25 21:22
+date: 2030-08-25 21:22
 tag:
 - Marina Garcés
 - Philosophy

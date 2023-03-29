@@ -1,7 +1,7 @@
 ---
 title: "🏴󠁥󠁳󠁣󠁴󠁿 Fora de classe (Marina Garcés)"
 layout: post
-date: 2023-05-25 21:22
+date: 2030-05-25 21:22
 tag:
 - Marina Garcés
 - Philosophy

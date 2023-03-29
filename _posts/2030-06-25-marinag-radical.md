@@ -1,7 +1,7 @@
 ---
 title: "🏴󠁥󠁳󠁣󠁴󠁿 Nova il·lustració radical (Marina Garcés)"
 layout: post
-date: 2023-06-25 21:22
+date: 2030-06-25 21:22
 tag:
 - Marina Garcés
 - Philosophy

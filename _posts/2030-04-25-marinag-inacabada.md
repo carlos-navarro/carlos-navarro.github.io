@@ -1,7 +1,7 @@
 ---
 title: "🇪🇸 Filosofía inacabada (Marina Garcés)"
 layout: post
-date: 2023-04-25 21:22
+date: 2030-04-25 21:22
 tag:
 - Marina Garcés
 - Philosophy

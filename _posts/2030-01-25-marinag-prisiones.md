@@ -1,7 +1,7 @@
 ---
 title: "🇪🇸 En las prisiones de lo posible (Marina Garcés)"
 layout: post
-date: 9999-01-25 21:22
+date: 2030-01-25 21:22
 tag:
 - Marina Garcés
 - Philosophy
