@@ -1,7 +1,7 @@
 ---
 title: ":es: Book template"
 layout: post
-date: 9999-01-25 21:20
+date: 9999-01-09 06:01
 tag:
 - Marina Garcés
 - Philosophy
