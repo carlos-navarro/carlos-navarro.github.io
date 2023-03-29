@@ -3,8 +3,6 @@ title: About
 layout: page
 ---
 
-**Architect who codes / Lifelong learner / Forever novice software craftsman / Standards champion / AXA-blue RedHatter / Slash man**
-
 Hey [Vsauce](https://youtube.com/c/vsauce1)! Carlos here.
 
 - 🔭 I’m currently working at AXA Group Operations as an architect who codes ([©2017 Nancy Nunes](https://www.oreilly.com/library/view/oreilly-software-architecture/9781491976203/video305898.html))
