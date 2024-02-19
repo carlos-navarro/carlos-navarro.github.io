@@ -1,5 +1,5 @@
 ---
-title: "OpenJS Foundation: JavaScriptLandia"
+title: ":clapper: OpenJS Foundation: JavaScriptLandia"
 layout: post
 date: 2022-11-01 21:22
 tag:

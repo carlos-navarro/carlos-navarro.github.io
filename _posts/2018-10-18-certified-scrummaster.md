@@ -1,5 +1,5 @@
 ---
-title: "ScrumMaster® (CSM®)"
+title: ":running: ScrumMaster® (CSM®)"
 layout: post
 date: 2018-10-18 19:20
 tag:

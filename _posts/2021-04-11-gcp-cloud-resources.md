@@ -1,5 +1,5 @@
 ---
-title: "Google Cloud Skill: Create and Manage Cloud Resources"
+title: ":cloud: Google Cloud Skill: Create and Manage Cloud Resources"
 layout: post
 date: 2021-04-11 21:22
 tag:

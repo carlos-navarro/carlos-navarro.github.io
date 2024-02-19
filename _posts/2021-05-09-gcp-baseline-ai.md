@@ -1,5 +1,5 @@
 ---
-title: "Google Cloud Baseline: Data, ML, AI"
+title: ":cloud: Google Cloud Baseline: Data, ML, AI"
 layout: post
 date: 2021-05-09 21:22
 tag:

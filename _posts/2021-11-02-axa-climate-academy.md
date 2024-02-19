@@ -1,5 +1,5 @@
 ---
-title: "AXA Climate Academy"
+title: ":recycle: AXA Climate Academy"
 layout: post
 date: 2021-11-02 19:20
 tag:

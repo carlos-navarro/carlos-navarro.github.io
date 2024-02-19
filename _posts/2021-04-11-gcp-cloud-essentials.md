@@ -1,5 +1,5 @@
 ---
-title: "Google Cloud Essentials"
+title: ":cloud: Google Cloud Essentials"
 layout: post
 date: 2021-04-11 21:22
 tag:
