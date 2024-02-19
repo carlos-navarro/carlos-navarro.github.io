@@ -1,5 +1,5 @@
 ---
-title: ":blue_heart: AXA Climate Academy"
+title: "AXA Climate Academy"
 layout: post
 date: 2021-11-02 19:20
 tag:

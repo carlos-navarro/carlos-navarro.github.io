@@ -1,5 +1,5 @@
 ---
-title: ":broken_heart: ScrumMaster® (CSM®)"
+title: "ScrumMaster® (CSM®)"
 layout: post
 date: 2018-10-18 19:20
 tag:

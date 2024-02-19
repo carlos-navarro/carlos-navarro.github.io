@@ -1,5 +1,5 @@
 ---
-title: ":blue_heart: Google Cloud Baseline: Architecture"
+title: "Google Cloud Baseline: Architecture"
 layout: post
 date: 2021-05-10 21:22
 tag:

@@ -1,5 +1,5 @@
 ---
-title: ":broken_heart: SAFe® 5 Architect"
+title: "SAFe® 5 Architect"
 layout: post
 date: 2021-10-27 19:20
 tag:

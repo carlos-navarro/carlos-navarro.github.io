@@ -1,5 +1,5 @@
 ---
-title: ":blue_heart: Google Cloud Baseline: Data, ML, AI"
+title: "Google Cloud Baseline: Data, ML, AI"
 layout: post
 date: 2021-05-09 21:22
 tag:
