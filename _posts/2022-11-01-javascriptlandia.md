@@ -1,5 +1,5 @@
 ---
-title: ":yellow_heart: OpenJS Foundation: JavaScriptLandia"
+title: "OpenJS Foundation: JavaScriptLandia"
 layout: post
 date: 2022-11-01 21:22
 tag:
