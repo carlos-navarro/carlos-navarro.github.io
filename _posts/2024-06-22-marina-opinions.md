@@ -14,9 +14,10 @@ externalLink: false
 ---
 <a 
     href="https://www.youtube.com/watch?v=-N1qPe3l_bg&t=1530s">
-    Are all opinions respectable?
+    <img width="100"
+        src="https://www.joseantoniomarina.net/wp-content/uploads/2023/03/PODCAST-JAM.png"
+        alt="José Antonio Marina" />
 </a>
-
 <sub>'El rincón de pensar', con José Antonio Marina y Lydia Cacho | FESTIVAL DE LAS IDEAS Y LA CULTURA</sub>
 
 🇪🇸 ❝¿Es verdad que todas las opiniones son respetables?
