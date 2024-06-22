@@ -18,6 +18,7 @@ externalLink: false
         src="https://www.joseantoniomarina.net/wp-content/uploads/2023/03/PODCAST-JAM.png"
         alt="José Antonio Marina" />
 </a>
+
 <sub>'El rincón de pensar', con José Antonio Marina y Lydia Cacho | FESTIVAL DE LAS IDEAS Y LA CULTURA</sub>
 
 🇪🇸 ❝¿Es verdad que todas las opiniones son respetables?
